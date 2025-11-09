@@ -1,12 +1,6 @@
 ## Hi there 👋  
 
-<a href="https://github.com/ankitamishra1404">
-  <img
-    alt="Ankita"
-    src="./assets/banner.jpg"
-    width="100%"
-  />
-</a>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ankitamishra1404&label=Profile%20views&color=ff69b4&style=for-the-badge)](https://github.com/ankitamishra1404)
 <a href="https://www.linkedin.com/in/ankita-mishra-593990293/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Ankita | LinkedIn" /></a>
